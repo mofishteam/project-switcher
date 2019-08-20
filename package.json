@@ -12,8 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/mofishteam/project-switcher.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "wszxdhr",
   "license": "MIT",
   "bugs": {
@@ -21,7 +20,8 @@
   },
   "homepage": "https://github.com/mofishteam/project-switcher.git#readme",
   "dependencies": {
-    "puppeteer": "^1.19.0"
+    "puppeteer": "^1.19.0",
+    "xterm": "^3.14.5"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
