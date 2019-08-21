@@ -1,5 +1,7 @@
 console.log('index,js')
 
 export default class ProjectSwitcher {
-  constructor () {}
+  constructor ({ configPath }) {
+    this.configPath = configPath
+  }
 }
