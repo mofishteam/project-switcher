@@ -1,3 +1,4 @@
 import ProjectSwitcher from '../index.js'
 
-console.log(ProjectSwitcher)
+const switcher = new ProjectSwitcher()
+console.log(switcher)
